@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yandex.Geocoder", "Yandex.Geocoder\Yandex.Geocoder.csproj", "{3FCFCB84-4238-49B2-A24B-C643334A3E4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yandex.Geocoder.Tests", "Yandex.Geocoder.Tests\Yandex.Geocoder.Tests.csproj", "{F499CE5B-A083-459F-8622-2523E7BFB8DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FCFCB84-4238-49B2-A24B-C643334A3E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCFCB84-4238-49B2-A24B-C643334A3E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCFCB84-4238-49B2-A24B-C643334A3E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCFCB84-4238-49B2-A24B-C643334A3E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F499CE5B-A083-459F-8622-2523E7BFB8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F499CE5B-A083-459F-8622-2523E7BFB8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F499CE5B-A083-459F-8622-2523E7BFB8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F499CE5B-A083-459F-8622-2523E7BFB8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
