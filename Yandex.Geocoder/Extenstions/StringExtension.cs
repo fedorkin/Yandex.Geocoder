@@ -1,6 +1,4 @@
-﻿using Yandex.Geocoder.Models;
-
-namespace Yandex.Geocoder.Extenstions
+﻿namespace Yandex.Geocoder.Extenstions
 {
     public static class StringExtension
     {

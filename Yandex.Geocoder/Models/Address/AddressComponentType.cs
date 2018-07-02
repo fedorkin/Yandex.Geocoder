@@ -1,4 +1,6 @@
-﻿namespace Yandex.Geocoder.Models.Address
+﻿using Yandex.Geocoder.Enums;
+
+namespace Yandex.Geocoder.Models.Address
 {
     public class AddressComponentType
     {

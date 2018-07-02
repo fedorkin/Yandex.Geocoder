@@ -1,9 +1,8 @@
 using System.Linq;
 using System.Threading.Tasks;
 using Xunit;
-using Yandex.Geocoder.Models.Address;
+using Yandex.Geocoder.Enums;
 using Yandex.Geocoder.Extenstions;
-using Yandex.Geocoder.Request;
 
 namespace Yandex.Geocoder.Tests
 {

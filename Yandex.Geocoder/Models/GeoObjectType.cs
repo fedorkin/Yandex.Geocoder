@@ -1,5 +1,4 @@
-﻿using System;
-namespace Yandex.Geocoder.Models
+﻿namespace Yandex.Geocoder.Models
 {
     public class GeoObjectType
     {

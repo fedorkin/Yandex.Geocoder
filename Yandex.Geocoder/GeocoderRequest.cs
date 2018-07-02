@@ -1,6 +1,4 @@
-﻿using Yandex.Geocoder.Request;
-
-namespace Yandex.Geocoder
+﻿namespace Yandex.Geocoder
 {
     public class GeocoderRequest : BaseGeocoderRequest
     {

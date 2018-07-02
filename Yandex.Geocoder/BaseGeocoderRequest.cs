@@ -5,7 +5,7 @@
         public const string DefaultLanguage = "ru_RU";
         public const int DefaultMaxCount = 5;
 
-        public BaseGeocoderRequest()
+        protected BaseGeocoderRequest()
         {
             Language = DefaultLanguage;
             MaxCount = DefaultMaxCount;

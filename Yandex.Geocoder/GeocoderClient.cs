@@ -1,10 +1,9 @@
 ﻿using System;
-using System.Globalization;
 using System.Net;
 using System.Threading.Tasks;
 using RestSharp;
+using Yandex.Geocoder.Enums;
 using Yandex.Geocoder.Models;
-using Yandex.Geocoder.Models.Address;
 
 namespace Yandex.Geocoder
 {
