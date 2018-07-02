@@ -3,6 +3,11 @@
     public enum AddressComponentKind
     {
         /// <summary>
+        /// Не задан
+        /// </summary>
+        None,
+
+        /// <summary>
         /// Отдельный дом
         /// </summary>
         House,

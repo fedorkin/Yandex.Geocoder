@@ -1,16 +1,15 @@
-﻿namespace Yandex.Geocoder
+﻿using Yandex.Geocoder.Request;
+
+namespace Yandex.Geocoder
 {
-    public class GeocoderRequest
+    public class GeocoderRequest : BaseGeocoderRequest
     {
-        public const string DefaultLanguage = "ru_RU";
+        public string Request { get; set; }
 
-        public GeocoderRequest()
-        {
-            Language = DefaultLanguage;
-        }
+        public Area SearchArea { get; set; }
 
-        public string Query { get; set; }
+        public BoxArea BordersArea { get; set; }
 
-        public string Language { get; set; }
+        public bool IsRestrictArea { get; set; }
     }
 }
