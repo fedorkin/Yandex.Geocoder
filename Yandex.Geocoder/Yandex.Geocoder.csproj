@@ -6,14 +6,12 @@
     <PackageTags>C# Yandex Geocoder</PackageTags>
     <Title>Yandex.Geocoder</Title>
     <Description>Yandex.Geocoder API client for C# / .NET</Description>
-    <PackOnBuild>true</PackOnBuild>
     <PackageId>Yandex.Geocoder</PackageId>
-    <PackageVersion>1.0.0</PackageVersion>
+    <PackageVersion>1.0.1</PackageVersion>
     <Summary>Yandex.Geocoder API client for C# / .NET</Summary>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="RestSharp" Version="106.3.1" />
-    <PackageReference Include="NuGet.Build.Packaging" Version="0.2.0" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\Address\" />
